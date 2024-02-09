@@ -1,0 +1,30 @@
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\student\Desktop\Козин Никитка\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\!Обмен\П-32 УП 01.01\Козин\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
