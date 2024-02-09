@@ -1,0 +1,10 @@
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\!Обмен\П-32 УП 01.01\Вощенков\FileStreamPicture\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
